@@ -1,8 +1,8 @@
-## Amazon-Customer-Reviews-Sentiment-Analysis-/
+## **Amazon-Customer-Reviews-Sentiment-Analysis**
 
-## why I trained the model on restaurant reviews instead of Amazon reviews ?
+## **why I trained the model on restaurant reviews instead of Amazon reviews ?**
 
-## 'I chose to train the model on restaurant reviews because they are more readily available and easily accessible. Additionally, restaurant reviews are more general and can be applied to a wider range of domains, making it easier to adapt the model to other domains. The sentiment analysis complexity in restaurant reviews is also higher, which allows us to develop a more robust and accurate sentiment analysis system. Furthermore, training on restaurant reviews allows us to develop a more generalizable model that can be applied to other domains, rather than a model that is specific to Amazon reviews. Finally, the data quality in restaurant reviews is often higher, which improves the accuracy of the model.’
+- 'I chose to train the model on restaurant reviews because they are more readily available and easily accessible. Additionally, restaurant reviews are more general and can be applied to a wider range of domains, making it easier to adapt the model to other domains. The sentiment analysis complexity in restaurant reviews is also higher, which allows us to develop a more robust and accurate sentiment analysis system. Furthermore, training on restaurant reviews allows us to develop a more generalizable model that can be applied to other domains, rather than a model that is specific to Amazon reviews. Finally, the data quality in restaurant reviews is often higher, which improves the accuracy of the model.’
  
  ------------
 
